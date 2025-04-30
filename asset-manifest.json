@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/futsal_fortune/static/css/main.b9e5f97f.css",
+    "main.css": "/futsal_fortune/static/css/main.a0577e43.css",
     "main.js": "/futsal_fortune/static/js/main.9a7d34bb.js",
     "index.html": "/futsal_fortune/index.html",
-    "main.b9e5f97f.css.map": "/futsal_fortune/static/css/main.b9e5f97f.css.map",
+    "main.a0577e43.css.map": "/futsal_fortune/static/css/main.a0577e43.css.map",
     "main.9a7d34bb.js.map": "/futsal_fortune/static/js/main.9a7d34bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9e5f97f.css",
+    "static/css/main.a0577e43.css",
     "static/js/main.9a7d34bb.js"
   ]
 }
