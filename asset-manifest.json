@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/futsal_fortune/static/css/main.b81ad1f4.css",
-    "main.js": "/futsal_fortune/static/js/main.0a350b42.js",
+    "main.css": "/futsal_fortune/static/css/main.e6d347b5.css",
+    "main.js": "/futsal_fortune/static/js/main.fea40c92.js",
+    "static/media/fortune-icon.png": "/futsal_fortune/static/media/fortune-icon.443ba88e55fb44c82da5.png",
     "static/media/matchup-logo.svg": "/futsal_fortune/static/media/matchup-logo.bf3d1de8702b2833555004c12d83d2c3.svg",
     "static/media/appstore.svg": "/futsal_fortune/static/media/appstore.59383adee2346901080e6282b2bfa387.svg",
     "static/media/googleplay.svg": "/futsal_fortune/static/media/googleplay.4ffc81d69af0cb174eedb124ab37e537.svg",
     "static/media/kakaotalk.svg": "/futsal_fortune/static/media/kakaotalk.4551f1f3ce0b424ffe6fe055e5d467e6.svg",
     "index.html": "/futsal_fortune/index.html",
     "static/media/link.svg": "/futsal_fortune/static/media/link.44a94866678ad3be2894bdbd7650914d.svg",
-    "main.b81ad1f4.css.map": "/futsal_fortune/static/css/main.b81ad1f4.css.map",
-    "main.0a350b42.js.map": "/futsal_fortune/static/js/main.0a350b42.js.map"
+    "main.e6d347b5.css.map": "/futsal_fortune/static/css/main.e6d347b5.css.map",
+    "main.fea40c92.js.map": "/futsal_fortune/static/js/main.fea40c92.js.map"
   },
   "entrypoints": [
-    "static/css/main.b81ad1f4.css",
-    "static/js/main.0a350b42.js"
+    "static/css/main.e6d347b5.css",
+    "static/js/main.fea40c92.js"
   ]
 }
