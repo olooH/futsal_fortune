@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/futsal_fortune/static/css/main.e6d82751.css",
-    "main.js": "/futsal_fortune/static/js/main.0b075f36.js",
+    "main.js": "/futsal_fortune/static/js/main.ec880a56.js",
     "static/media/fortune-icon_open.png": "/futsal_fortune/static/media/fortune-icon_open.9cfa924ea076ad98b894.png",
     "static/media/fortune-iconn.png": "/futsal_fortune/static/media/fortune-iconn.a0f827168b6aef9c97fe.png",
     "static/media/matchup-logo.svg": "/futsal_fortune/static/media/matchup-logo.bf3d1de8702b2833555004c12d83d2c3.svg",
@@ -11,10 +11,10 @@
     "index.html": "/futsal_fortune/index.html",
     "static/media/link.svg": "/futsal_fortune/static/media/link.44a94866678ad3be2894bdbd7650914d.svg",
     "main.e6d82751.css.map": "/futsal_fortune/static/css/main.e6d82751.css.map",
-    "main.0b075f36.js.map": "/futsal_fortune/static/js/main.0b075f36.js.map"
+    "main.ec880a56.js.map": "/futsal_fortune/static/js/main.ec880a56.js.map"
   },
   "entrypoints": [
     "static/css/main.e6d82751.css",
-    "static/js/main.0b075f36.js"
+    "static/js/main.ec880a56.js"
   ]
 }
